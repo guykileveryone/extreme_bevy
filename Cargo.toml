@@ -1,4 +1,6 @@
+cargo-features = ["edition2024"]
 [package]
+
 name = "extreme_bevy"
 version = "0.1.0"
 edition = "2024"
